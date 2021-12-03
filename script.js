@@ -1,5 +1,5 @@
-window.addEventListener("load", init);
-
 function init() {
-    console.log("hello");
+  console.log("Page loaded");
 }
+
+window.addEventListener("load", init);
